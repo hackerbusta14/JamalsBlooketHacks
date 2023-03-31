@@ -1,0 +1,2 @@
+# JamalsBlooketHacks
+Hacks for bluket
